@@ -1,4 +1,5 @@
-# Gulp Roole [![Build Status](https://travis-ci.org/chrisenytc/gulp-roole.png?branch=master)](https://travis-ci.org/chrisenytc/gulp-roole) [![Dependency Status](https://gemnasium.com/chrisenytc/gulp-roole.png)](https://gemnasium.com/chrisenytc/gulp-roole) [![NPM version](https://badge-me.herokuapp.com/api/npm/gulp-roole.png)](http://badges.enytc.com/for/npm/gulp-roole) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chrisenytc/gulp-roole/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+# Gulp Roole
+[![Build Status](https://travis-ci.org/chrisenytc/gulp-roole.png?branch=master)](https://travis-ci.org/chrisenytc/gulp-roole) [![Dependency Status](https://gemnasium.com/chrisenytc/gulp-roole.png)](https://gemnasium.com/chrisenytc/gulp-roole) [![NPM version](https://badge-me.herokuapp.com/api/npm/gulp-roole.png)](http://badges.enytc.com/for/npm/gulp-roole) [![Coverage Status](https://coveralls.io/repos/chrisenytc/gulp-roole/badge.png)](https://coveralls.io/r/chrisenytc/gulp-roole) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chrisenytc/gulp-roole/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 > A plugin for Gulp to Compile Roole files to CSS
 
 ## Usage
